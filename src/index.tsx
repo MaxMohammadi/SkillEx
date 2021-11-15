@@ -43,9 +43,9 @@ ReactDOM.render(
     <ContractKitProvider
       dapp={{
         name: "Skillex",
-        description: "Education on Celo",
+        description: "Learning with others on Celo",
         url: "maxmohammadi.vercel.app",
-        icon: "./icons/education-32x32.png",
+        icon: "./icons/education.png",
       }}
     >
       <ThemeProvider theme={theme}>
