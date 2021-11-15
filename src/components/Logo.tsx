@@ -14,11 +14,11 @@ export const Logo: React.FC = () => {
         history.push("/");
       }}
     >
-      <Box sx={{ fill: "text" }} mr={2}>
+      <Box sx={{ fill: "text" }} mr={3}>
         <LogoIcon />
       </Box>
       {breakpoint === Breakpoint.DESKTOP && (
-        <Text variant="logo">Nomspace</Text>
+        <span style={{textAlign:'center',fontSize:50}}>SKILLEX</span>
       )}
     </Flex>
   );

@@ -42,10 +42,10 @@ ReactDOM.render(
   <React.StrictMode>
     <ContractKitProvider
       dapp={{
-        name: "Nomspace",
-        description: "Protocol for name registration",
-        url: "https://app.nom.space",
-        icon: "https://www.nom.space/favicon-32x32.png",
+        name: "Skillex",
+        description: "Education on Celo",
+        url: "maxmohammadi.vercel.app",
+        icon: "./icons/education-32x32.png",
       }}
     >
       <ThemeProvider theme={theme}>
