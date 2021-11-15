@@ -1,20 +1,10 @@
-# nomspace-interface
+# SkillEx Interface
 
-Frontend for the Nomspace protocol.
+## Installation
 
-## Developing
-
-Install Yarn, then run:
+run:
 
 ```bash
 yarn install
 yarn start
 ```
-
-## Deploying
-
-Deploys are sent to Vercel.
-
-TODO: add arweave deploys.
-
-TODO: Add displaying resolution information.
