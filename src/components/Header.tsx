@@ -3,7 +3,6 @@ import { Box, Flex, useColorMode } from "theme-ui";
 import { Logo } from "src/components/Logo";
 import { ConnectWallet } from "src/components/ConnectWallet";
 import { useLocation } from "react-router-dom";
-import { Moon, Sun } from "phosphor-react";
 
 export const Header: React.FC = () => {
   const location = useLocation();
